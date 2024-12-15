@@ -6,7 +6,7 @@ step 2: get sound space + from here:https://github.com/David20122/sound-space-pl
 
 step 3: go into sound space quantum editor and go to settings, then select "use SS+ for playtesting" and then select the exe for sound space +
 
-step 4: load the map file (.txt or .ssmp) and the audio.
+step 4: load the map file (.txt or .sspm) and the audio.
 
 step 5: press "play map" and sound space + should open and you can start playing!
 
