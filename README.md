@@ -1,6 +1,6 @@
 for any of the songs to work, you are going to need to download the song that comes with.
 
-step 1: get sound space quantum editor if you havn't already
+step 1: get sound space quantum editor if you havn't already from here: https://github.com/David20122/Sound-Space-Quantum-Editor
 
 step 2: get sound space + from here:https://github.com/David20122/sound-space-plus
 
